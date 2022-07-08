@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopQuanAo", "ShopQuanAoLite\ShopQuanAo.csproj", "{5413C6CC-8120-4531-990D-9D5D634E94F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5413C6CC-8120-4531-990D-9D5D634E94F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5413C6CC-8120-4531-990D-9D5D634E94F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5413C6CC-8120-4531-990D-9D5D634E94F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5413C6CC-8120-4531-990D-9D5D634E94F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74A57E9-778C-40F3-8706-B3D6C50801A3}
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
